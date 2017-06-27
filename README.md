@@ -5,7 +5,7 @@ This building block requires a license key. Please contact Nestorsupport (nestor
 
 ## Links
 - [Download Latest Release](https://github.com/rijksuniversiteit-groningen/b2-WorkflowTool/releases/latest)
-- [View all releases](https://github.com/rijksuniversiteit-groningen/b2-WorkflowTool/releases)
+- [View All Releases](https://github.com/rijksuniversiteit-groningen/b2-WorkflowTool/releases)
 
 ## Release Notes
 
